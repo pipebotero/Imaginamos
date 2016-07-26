@@ -268,8 +268,8 @@ body {
 	height: 40px;
 	font-size: 24px;
 	font-family: "Champagne";
-	background: #444344;
-	color: #FFF;
+	background: #333333;
+	color: #ECE6D3;
 	border-bottom: 3px solid #FF0A3E;
 
 }
@@ -281,8 +281,8 @@ body {
 	height: 40px;
 	font-size: 24px;
 	font-family: "Champagne";
-	background: #444344;
-	color: #FFF;
+	background: #ECE6D3;
+	color: #333333;
 	border-bottom: 3px solid #FF0A3E;
 
 }
@@ -292,7 +292,9 @@ body {
 	margin-left: 20px;
 	width: 380px;
 	height: 120px;
-	background: #FFF;
+	background: #333333;
+	color: #FFF;
+	box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.21);
 }
 
 .intro-section-left .info-box .info-box-left{
